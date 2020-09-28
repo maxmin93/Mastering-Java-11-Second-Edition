@@ -29,10 +29,11 @@ All of the code is organized into folders. For example, Chapter02.
 The code files present in Chapter06 and Chapter08 are just for representational purpose. They can neither be tested nor can they be validated.
 
 The code will look like the following:
-```
+```java
 public default void fastWalk() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Enter desired pacing: ");
+}
 ```
 
 **Following is what you need for this book:**
